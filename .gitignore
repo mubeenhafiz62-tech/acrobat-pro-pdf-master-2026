@@ -1,6 +1,0 @@
-.next/
-build/
-dist/
-.DS_Store
-coverage/
-*.log
