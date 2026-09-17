@@ -1,0 +1,10 @@
+*.svg text
+node_modules/* linguist-vendored 
+*.ico binary
+public/* linguist-vendored
+public/**/*.html linguist-vendored
+
+*.ts linguist-detectable
+*.min.css linguist-generated
+dist/* linguist-vendored
+# eof 5d509909
